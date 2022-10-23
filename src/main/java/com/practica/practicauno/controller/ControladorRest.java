@@ -1,4 +1,4 @@
-package com.practica.practicauno.controller;
+/*package com.practica.practicauno.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -15,3 +15,4 @@ public class ControladorRest {
         return "Hola, mi nombre es Ange Pineda";
     }
 }
+*/
